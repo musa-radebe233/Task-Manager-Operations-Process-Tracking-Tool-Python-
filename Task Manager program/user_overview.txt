@@ -1,0 +1,12 @@
+USER OVERVIEW REPORT
+-------------------------
+Total users: 1
+Total tasks: 2
+
+User: admin
+Total tasks assigned: 2
+% of all tasks assigned: 100.00%
+% completed: 0.00%
+% incomplete: 100.00%
+% overdue: 100.00%
+-------------------------
